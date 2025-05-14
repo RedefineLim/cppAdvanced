@@ -17,8 +17,8 @@ import seaborn as sns
 
 - **导入PyTorch基础库**：用于构建和训练神经网络
 - **导入ncps库**：包含神经环路处理器(Neural Circuit Policies)相关组件
-    - CfC: 可能是Closed-form Continuous-time RNN单元
-    - LTC: 可能是Liquid Time-Constant网络
+    - CfC: 是Closed-form Continuous-time RNN单元
+    - LTC: 是Liquid Time-Constant网络
     - AutoNCP/NCP: 神经环路处理器的自动/手动布线工具
 - **导入可视化工具**：matplotlib和seaborn用于绘制网络结构图
 
